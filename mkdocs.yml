@@ -22,6 +22,10 @@ extra_css:
 # Page tree
 pages:
   - Introduction: index.md
+  - Theme Installation: theme-installation.md
+  - Design Selection: design-selection.md
+  - Import Demo Content: import-content.md
+  - Import Demo Content: header-settings.md
 
 # Extensions
 markdown_extensions:
