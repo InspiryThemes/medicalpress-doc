@@ -1,3 +1,35 @@
+body {
+    background: aliceblue;
+}
+
+.md-typeset {
+    font-size: 1.5rem;
+    line-height: 1.8;
+}
+
+.md-content img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: 5px solid #e5e5e5;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+    font-weight: 700;
+}
+
+.md-typeset blockquote,
+.md-typeset ol,
+.md-typeset p,
+.md-typeset ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
 .no-bullets {
     list-style: none !important;
 }
@@ -9,7 +41,7 @@
 .md-typeset ol,
 .md-typeset ul {
     margin-left: 15px;
-    margin-bottom: 20px;
+    /*margin-bottom: 25px;*/
 }
 
 .md-typeset ol li ol,
@@ -35,28 +67,10 @@
     margin-bottom: 0;
 }
 
-.md-typeset li img {
-    margin-top: 20px;
-}
-
-.md-content img {
-    display: block;
-    max-width: 100%;
-    height: auto;
-    margin-bottom: 20px;
-    border: 5px solid #e5e5e5;
-}
-
-.md-typeset h1,
-.md-typeset h2,
-.md-typeset h3 {
-    font-weight: 700;
-}
-
 hr,
-.md-typeset hr{
+.md-typeset hr {
     margin-top: 50px;
-    margin-bottom: 30px;
+    margin-bottom: 25px;
     width: 100%;
     height: 2px;
     background: #e5e5e5;
