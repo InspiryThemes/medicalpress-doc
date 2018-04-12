@@ -7,18 +7,17 @@ Demo Importer will help you setup your site like the theme demo, with only one c
 
 Go to **Dashboard** &raquo; **Theme Options** &raquo; **Demo Importer** and press **Import Demo** button, As pointed in screen shot below.
 
+![Auto Import Demo](images/install/14.png)
+
 **Now wait, It can take few minutes as images are fetched from remote server.** You can visit your site once done.
 
 Some time import process can become freezed/halted due to delays in fetching data from remote server.
 You can verify this by visiting media library in a new tab and analysing the number of images imported.
+
 In this case, Simply refresh theme options and re-click the demo import button as it will not add duplicate entries
 and simply resume from where it halted last time. It only adds duplicate entries in menu and those can be removed easily.
 
-If demo import process totally fails then you can try fallback demo import as that is hosted on a different server.
-
 For any further help you can create a support ticket on our [Support](https://support.inspirythemes.com/) site.
-
-![Auto Import Demo](images/install/14.png)
 
 ## Import XML for Demo Contents
 

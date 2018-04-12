@@ -9,7 +9,7 @@ There are various options available to modify styles in this theme.
 3. **Custom CSS in Child Theme** - **child-custom.css** file is provided in child theme to add major css changes.
 ![Child Custom CSS](images/modify-theme/1.png)
 
-4. **Custom CSS in Parent Theme** - if you are not using child theme then '**css/custom.css**' file is provided in parent theme to add major css changes.
+4. **Custom CSS in Parent Theme** - if you are not using child theme then **css/custom.css** file is provided in parent theme to add major css changes.
 ![Custom CSS](images/modify-theme/2.png)
 
 ## Modify Theme Options

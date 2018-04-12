@@ -4,10 +4,11 @@ This theme uses [WooCommerce](https://wordpress.org/plugins/woocommerce/) Plugin
 Please follow the steps below to setup your shop.
 
 1. Go to **Plugins &raquo; Add New** and search for **WooCommerce** and install it as displayed in screen shot below.
-![](images/shop/1.png)
+![WooCommerce Plugin](images/shop/1.png)
+![WooCommerce Plugin Installation](images/shop/1.1.png)
 
 2. **Activate Plugin** once installed.
-![](images/shop/2.png)
+![WooCommerce Plugin Activation](images/shop/2.png)
 
 3. **Install WooCommerce Sample Pages** after plugin activation.
 ![](images/shop/3.png)

@@ -13,4 +13,4 @@ Go to **Dashboard &raquo; Pages &raquo; Add New**
 
 4. **Publish** the page once it is ready.
 
-5. After publishing you need to add the newly created page in menu from **Dashboard** &raquo; **Appearance** &raquo; **Menus **
+5. After publishing you need to add the newly created page in menu from **Dashboard** &raquo; **Appearance** &raquo; **Menus**

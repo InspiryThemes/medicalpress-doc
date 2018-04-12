@@ -14,8 +14,8 @@ theme: material
 # Options
 extra:
   palette:
-    primary: 'blue'
-    accent: 'blue'
+    primary: 'red'
+    accent: 'red'
 extra_css:
   - css/extra.css
 

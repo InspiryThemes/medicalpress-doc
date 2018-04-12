@@ -4,13 +4,21 @@ To set up default slider visit **Dashboard** &raquo; **Theme Options** &raquo; *
 
 ![](images/slider/1.png)
 
-After that you can start adding slides one by one as displayed in screen shot below.
-Once you are done adding slides, save the theme options and visit the homepage to view the resulted slider.
-
 !!! info "Info"
     MedicalPress demo slider images are already imported with XML. So if you want, you can simply select those from Media Library to quickly test the theme in start.
 
+After that you can start adding slides one by one as displayed in screen shot below.
+Once you are done adding slides, save the theme options and visit the homepage to view the resulted slider.
+
 ![](images/slider/2.png)
+
+### Announcement Display
+
+!!! info "Info"
+    This option is only available in "Reborn" Design Variation.
+
+![](images/slider/8.png)
+![](images/slider/9.png)
 
 ## Set Up Revolution Slider
 

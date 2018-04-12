@@ -35,8 +35,8 @@ To set this widget, Go to **Dashboard &raquo; Plugins &raquo; Installed Plugins*
 ![](images/widgets/8.png)
 
 2. This widget requires two pages to work properly.
-    1. **Thanks** page as displayed in [](http://inspirythemesdemo.com/medicalpress/thanks/This Link
-    2. **Confirmation** page as displayed in [](http://inspirythemesdemo.com/medicalpress/confirmation/This Link
+    1. **Thanks** page as displayed in [This Link](http://medicalpress.inspirydemos.com/thanks/)
+    2. **Confirmation** page as displayed in [This Link](http://medicalpress.inspirydemos.com/confirmation/)
 To learn about how to create a page visit the **Create Pages** &raquo; **Full Width Page** section of this documentation.
 
 3. After installing and activating the plugin, Go to **Settings** &raquo; **WP Email Capture** and Provide the 'thanks' page URL in the 1st field
@@ -68,4 +68,24 @@ To learn about how to create a page visit the **Create Pages** &raquo; **Full Wi
 ![](images/widgets/16.png)
 
 4. Now check the front end of your site and you will have the tabs widget working in your site's sidebar.
+<br />
+Widget style in **Default** design variation.
 ![](images/widgets/17.png)
+Widget style in **Reborn** design variation.
+![](images/widgets/18.png)
+
+## Blog Posts Widget
+
+!!! info "Info"
+    This widget is only available for **Reborn** design variation.
+
+1. Go to **Dashboard** &raquo; **Appearance** &raquo; **Widgets** and look for **Medical - Blog Posts** widget.
+![](images/widgets/19.png)
+
+2. Provide the widget title and configure the related settings.
+![](images/widgets/20.png)  
+
+3. Save the widget settings after you are done.
+
+4. Now check the front end of your site and you will have the tabs widget working in your site's sidebar.
+![](images/widgets/21.png)  

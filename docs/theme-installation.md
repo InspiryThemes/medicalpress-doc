@@ -1,6 +1,6 @@
 # Install Theme
 
-In start you must have a working version of WordPress already installed. For information in regard to installing the WordPress CMS, please see the WordPress Codex [Installing WordPress](https://codex.wordpress.org/Installing_WordPress)
+In start you must have a working version of WordPress already installed. For information in regard to installing the WordPress CMS, please see the WordPress Codex [Installing WordPress](https://codex.wordpress.org/Installing_WordPress).
 Once you have a working of version of WordPress, you need to download **All Files and Documentation** from themeforest and extract the downloaded zip to get various files including **inspiry-medicalpress.zip**.
 
 ![Download Package](images/all-files.png)
@@ -9,9 +9,9 @@ Once you have a working of version of WordPress, you need to download **All File
 
 ![Theme Install](images/install/1.png)
 
-1.  Go to '**Appearance** &raquo; **Themes**' section
-2.  Click '**Add New**' and select the '**Upload Theme**' option 
-3.  Choose the **inspiry-medicalpress.zip** file and press 'Install Now'
+1.  Go to **Appearance** &raquo; **Themes** section
+2.  Click **Add New** and select the **Upload Theme** option 
+3.  Choose the **inspiry-medicalpress.zip** file and press **Install Now**
 4.  Once the theme is uploaded you need to activate it.
 
 !!! info "Info"
@@ -20,9 +20,9 @@ Once you have a working of version of WordPress, you need to download **All File
 ## Install Theme Via FTP (Alternative Way)
 
 1.  Access your hosting server using an ftp client like [FileZilla](https://filezilla-project.org/FileZilla)
-2.  Go to the '**wp-content/themes**' folder of your WordPress installation
-3.  Extract the **inspiry-medicalpress.zip** file and put the **inspiry-medicalpress** folder in '**wp-content/themes/**' folder
-4.  Go to '**WordPress Dashboard** &raquo; **Appearance** &raquo; **Themes**' section to activate the theme
+2.  Go to the **wp-content/themes** folder of your WordPress installation
+3.  Extract the **inspiry-medicalpress.zip** file and put the **inspiry-medicalpress** folder in **wp-content/themes/** folder
+4.  Go to **WordPress Dashboard** &raquo; **Appearance** &raquo; **Themes** section to activate the theme
 
 ## Install Plugins
 
