@@ -1,5 +1,5 @@
-body {
-    background: aliceblue;
+body{
+    color: #212121;
 }
 
 .md-typeset {
@@ -22,26 +22,17 @@ body {
     font-weight: 700;
 }
 
-.md-typeset blockquote,
-.md-typeset ol,
-.md-typeset p,
-.md-typeset ul {
-    margin-top: 0;
-    margin-bottom: 10px;
-}
-
-.no-bullets {
-    list-style: none !important;
-}
-
-.no-bullets li {
-    list-style: none !important;
+.md-typeset ol li blockquote,
+.md-typeset ol li p,
+.md-typeset ul li blockquote,
+.md-typeset ul li p {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .md-typeset ol,
 .md-typeset ul {
     margin-left: 15px;
-    /*margin-bottom: 25px;*/
 }
 
 .md-typeset ol li ol,
@@ -65,6 +56,14 @@ body {
 .md-typeset ol li:last-child,
 .md-typeset ul li:last-child {
     margin-bottom: 0;
+}
+
+.no-bullets {
+    list-style: none !important;
+}
+
+.no-bullets li {
+    list-style: none !important;
 }
 
 hr,
@@ -105,4 +104,15 @@ hr,
 
 .md-footer-meta {
     display: none;
+}
+
+.md-typeset h1 {
+    margin: 0 0 3rem;
+    padding: 0 0 2rem 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.09);
+}
+
+.md-typeset h2 {
+    font-size: 2.4rem;
+    margin-top: 3rem;
 }
