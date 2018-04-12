@@ -6,10 +6,11 @@ To configure header related settings kindly navigate to **Dashboard** &raquo; **
 
 ### Default Variation Specific Header Options 
 
-Following options are only available in **<em>Default</em>** design variation.
+Following options are available only in **<em>Default</em>** design variation.
 
 #### Sticky Header
 You can check the sticky header in the following video (look at the top header which is fixed and doesn't disappear on scroll the page up and down).
+
 <iframe src="https://player.vimeo.com/video/230425776?autoplay=1&loop=1&title=0&byline=0" width="850" height="497" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 #### Header Text
@@ -23,7 +24,7 @@ You can check the sticky header in the following video (look at the top header w
 
 ### Reborn Variation Specific Header Options 
 
-Following options are only available in **<em>Reborn</em>** design variation.
+Following options are available only in **<em>Reborn</em>** design variation.
 
 #### Social Links
 ![Social Icons](images/header/social-links.png)
