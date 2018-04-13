@@ -1,9 +1,11 @@
 # Design Selection (Default or Reborn)
 
-Since version 1.7, MedicalPress Theme has two design variations, named Default and Reborn. We strongly suggest to select and finalize a design in start to run the website smoothly for long term.
+MedicalPress Theme offers two completely different design variations named **Default** and **Reborn**. We recommend you to decide a design variation in start and keep it for long term.
 
-It is possible that a specific feature might not be available/supported in other variation due to design limitations.
+Please note that there could be more than one minor feature differences between both design variations due to design limitations.
 
 To select design variation, Go to **Dashboard** &raquo; **Theme Options** &raquo; **Design Variation**.
 
 ![Design Selection](images/install/3.png)
+
+Select the your desired design and **Save Changes**.
