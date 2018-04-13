@@ -5,7 +5,7 @@ Once you have a working of version of WordPress, you need to download **All File
 
 ![Download Package](images/all-files.png)
 
-## Install Theme Via WordPress Dashboard (Recommended)
+## 1.Install Theme Via WordPress Dashboard (Recommended)
 
 ![Theme Install](images/install/1.png)
 
@@ -17,14 +17,14 @@ Once you have a working of version of WordPress, you need to download **All File
 !!! info "Info"
     if you face any problem during upload through dashboard, please upload the theme using FTP as guided below.
 
-## Install Theme Via FTP (Alternative Way)
+### Install Theme Via FTP (Alternative Way)
 
 1.  Access your hosting server using an ftp client like [FileZilla](https://filezilla-project.org/FileZilla)
 2.  Go to the **wp-content/themes** folder of your WordPress installation
 3.  Extract the **inspiry-medicalpress.zip** file and put the **inspiry-medicalpress** folder in **wp-content/themes/** folder
 4.  Go to **WordPress Dashboard** &raquo; **Appearance** &raquo; **Themes** section to activate the theme
 
-## Install Plugins
+## 2.Install Plugins
 
 After you have installed and activated the theme, there'll be a list of **required** plugins at the top of the WordPress dashboard. 
 
@@ -44,7 +44,7 @@ So, you need to install and activate these plugins as demonstrated below.
 
 ![Install Step 2](images/install/2-2.png)
 
-## Install Child Theme (Highly Recommended)
+## 3.Install Child Theme (Highly Recommended)
 
 It is better to use child theme as if you need to modify anything you modify in child theme only.
 This way you can easily update your parent theme whenever new update becomes available on themeforest.
