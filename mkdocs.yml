@@ -26,25 +26,24 @@ pages:
   - Design Selection: design-selection.md
   - Import Demo Content: import-content.md
   - Header Settings: header-settings.md
-  - Home & News Pages: home-and-news-pages.md
-  - Slider Settings: slider-settings.md
-  - Appointment Form: appointment-form.md
-  - Features Section: features-section.md
-  - Add Content:
-    - Add News Post: add-news-post.md
-    - Add Doctor: add-doctor.md
-    - Add Testimonial : add-testimonial.md
-    - Add FAQ: add-faq.md
-    - Add Service: add-service.md
-    - Add Gallery Item: add-gallery-item.md
-  - Creat Pages:
-    - Doctors Page: doctors-page.md
-    - Services Page: services-page.md
-    - Gallery Page: gallery-page.md
-    - FAQs Page: faqs-page.md
-    - Full Width Page: fullwidth-page.md
-    - Appointment Page: appointment-page.md
-    - Contact Page: contact-page.md
+  - Home & News Pages:
+    - Home & News Pages: home-and-news-pages.md
+    - Slider Settings: slider-settings.md
+    - Appointment Form: appointment-form.md
+    - Features Section: features-section.md
+  - Add News Post: add-news-post.md
+  - Add Doctor: add-doctor.md
+  - Add Testimonial : add-testimonial.md
+  - Add FAQ: add-faq.md
+  - Add Service: add-service.md
+  - Add Gallery Item: add-gallery-item.md
+  - Doctors Page: doctors-page.md
+  - Services Page: services-page.md
+  - Gallery Page: gallery-page.md
+  - FAQs Page: faqs-page.md
+  - Full Width Page: fullwidth-page.md
+  - Appointment Page: appointment-page.md
+  - Contact Page: contact-page.md
   - Shop: woocommerce-shop-page.md
   - Widgets: widgets.md
   - Theme Options: theme-options.md
