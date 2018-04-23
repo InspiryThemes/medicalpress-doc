@@ -50,7 +50,11 @@ pages:
   - Other Features: other-features.md
   - Google Maps: google-map.md
   - WPML: wpml.md
-  - Modify Theme: modify-theme.md
+  - Customize Theme:
+    - Customize Styles: customize-styles.md
+    - Customize Theme Options: customize-theme-options.md
+    - Customize Meta Boxes: customize-meta-boxes.md
+    - Hire Customization Services: hire-customization-services.md
   - Common Questions/Issues: common-questions.md
 
 # Extensions
