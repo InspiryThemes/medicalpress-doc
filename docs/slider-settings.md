@@ -24,22 +24,22 @@ Once you are done adding slides, save the theme options and visit the homepage t
 
 To set up revolution slider you need to install revolution slider plugin that comes as part of the theme package and its files exits in **Plugins/Revolution Slider/** folder in the unzipped package.
 
-1. Go to **Dashboard** &raquo; **Plugins** &raquo; **Add New** &raquo; **Upload**
+1. Go to **Dashboard** &raquo; **Plugins** &raquo; **Add New** &raquo; **Upload Plugin**
 
 2. Select the **revslider.zip** file from **Plugins/Revolution Slider/** folder and press **Install Now**
-![](images/slider/3.png)
+![Select revslider zip file](images/slider/3.png)
 
 3. Activate the plugin after the install.
-![](images/slider/4.png)
+![ Activate the plugin](images/slider/4.png)
 
 4. Now, Go to **Revolution Slider** and press import slider.
-![](images/slider/5.png)
+![import slider](images/slider/5.png)
 
 5. Upload **medical_press.zip** from **Plugins/Revolution Slider/Slider Import Zip/** folder and press **Import Slider**
-![](images/slider/6.png)
+![Import Slider](images/slider/6.png)
 
 6. Once done copy the alias **<em>medical_press</em>** and paste it into slider revolution related theme options.
-![](images/slider/7.png)
+![alias code](images/slider/7.png)
 
 7. Save the changes in theme options and visit home page to test revolution slider.
 
