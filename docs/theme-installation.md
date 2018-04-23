@@ -6,13 +6,13 @@ Once you have a working of version of WordPress, you need to download **All File
 ![Download Package](images/all-files.png)
 
 ## 1.Install Theme Via WordPress Dashboard (Recommended)
-
-![Theme Install](images/install/1.png)
-
 1.  Go to **Appearance** &raquo; **Themes** section
 2.  Click **Add New** and select the **Upload Theme** option 
 3.  Choose the **inspiry-medicalpress.zip** file and press **Install Now**
 4.  Once the theme is uploaded you need to activate it.
+
+![Theme Install](images/install/1.png)
+![Theme Install two ](images/install/1.1.png)
 
 !!! info "Info"
     if you face any problem during upload through dashboard, please upload the theme using FTP as guided below.
