@@ -3,6 +3,7 @@
 There are various options available to modify styles in this theme.
 
 1. **Theme Options** - Go to **Theme Options** &raquo; **Styling** for various styling options.
+![Styling Options](images/modify-theme/styling-options.png)
 
 2. **Quick CSS** - Go to **Theme Options** &raquo; **Styling** &raquo; **Quick CSS** to write some short css.
 
