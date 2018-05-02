@@ -19,6 +19,13 @@ extra:
 extra_css:
   - css/extra.css
 
+extra:
+  social:
+    - type: 'facebook'
+      link: 'https://www.facebook.com/InspiryThemes/'
+    - type: 'twitter'
+      link: 'https://twitter.com/InspiryThemes'
+      
 # Page tree
 pages:
   - Introduction: index.md
@@ -56,6 +63,10 @@ pages:
     - Customize Meta Boxes: customize-meta-boxes.md
     - Hire Customization Services: hire-customization-services.md
   - Common Questions/Issues: common-questions.md
+
+# Change it to true before building (mkdocs build) for putting online.
+# It should be false for themeforest package.
+use_directory_urls: false
 
 # Extensions
 markdown_extensions:

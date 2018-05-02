@@ -3,40 +3,40 @@
 
     
     <url>
-     <loc>/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/theme-installation/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/theme-installation/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/design-selection/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/design-selection/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/import-content/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/import-content/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/header-settings/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/header-settings/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -44,26 +44,26 @@
     
         
     <url>
-     <loc>/home-and-news-pages/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/home-and-news-pages/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/slider-settings/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/slider-settings/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/appointment-form/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/appointment-form/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/features-section/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/features-section/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -71,168 +71,188 @@
 
     
     <url>
-     <loc>/add-news-post/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/add-news-post/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/add-doctor/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/add-doctor/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/add-testimonial/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/add-testimonial/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/add-faq/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/add-faq/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/add-service/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/add-service/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/add-gallery-item/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/add-gallery-item/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/doctors-page/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/doctors-page/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/services-page/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/services-page/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/gallery-page/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/gallery-page/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/faqs-page/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/faqs-page/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/fullwidth-page/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/fullwidth-page/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/appointment-page/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/appointment-page/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/contact-page/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/contact-page/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/woocommerce-shop-page/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/woocommerce-shop-page/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/widgets/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/widgets/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/theme-options/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/theme-options/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/other-features/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/other-features/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/google-map/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/google-map/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/wpml/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/wpml/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
+        
     <url>
-     <loc>/modify-theme/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/customize-styles/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>/customize-theme-options/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/customize-meta-boxes/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/hire-customization-services/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
     <url>
-     <loc>/common-questions/</loc>
-     <lastmod>2018-04-23</lastmod>
+     <loc>/common-questions/index.html</loc>
+     <lastmod>2018-05-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
