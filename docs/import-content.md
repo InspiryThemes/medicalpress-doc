@@ -1,46 +1,55 @@
-## Auto Import Demo Contents
+You can follow one of these approaches.
 
-Demo Importer will help you setup your site like the theme demo, with only one click.
+- One Click Demo Import **( Automatic & Recommended )**
+- Import XML for Demo Contents
 
 !!! warning "Note"
     Just make sure all the required plugins are installed.
 
-Go to **Dashboard** &raquo; **Theme Options** &raquo; **Demo Importer** and press **Import Demo** button, As pointed in screen shot below.
+## 1 - One Click Demo Import (Automatic & Recommended)
 
-![Auto Import Demo](images/install/14.png)
+### **Step 1**
 
-**Now wait, It can take few minutes as images are fetched from remote server.** You can visit your site once done.
+Go to **Dashboard → Settings → Permalinks** and choose Post name from Common Settings and save the changes, As displayed in screen shot below.
 
-Some time import process can become freezed/halted due to delays in fetching data from remote server.
-You can verify this by visiting media library in a new tab and analysing the number of images imported.
+![Screenshot](images/install/permalinks.png)
 
-In this case, Simply refresh theme options and re-click the demo import button as it will not add duplicate entries
-and simply resume from where it halted last time. It only adds duplicate entries in menu and those can be removed easily.
+### **Step 2**
 
-For any further help you can create a support ticket on our [Support](https://support.inspirythemes.com/) site.
+Go to **Appearance → Import Demo Data** and click on blue **Import** button of selected design variation. You will see a popup so click on the blue **Yes, import!** button again to confirm the import for the relevant layout of the theme. Wait for few minutes as the demo images are being fetched from the remote server and this process can take a couple of minutes.
 
-## Import XML for Demo Contents
+![Screenshot](images/install/demo-import.png)
+
+### **Step 3**
+
+Once the import process is complete, You will receive a notice like the one displayed in the screenshot below.
+
+![Screenshot](images/install/all-done.png)
+
+Visit your site and you will find your site working like the theme demo. In case of any problem, Get in touch with our support team using our [support](https://support.inspirythemes.com/) site.
+
+## 2 - Import XML for Demo Contents
 
 !!! info "Info"
-    You do not need to follow this section if you have already imported demo contents using **Auto Import Demo Contents** feature.
+    You do not need to follow this section if you have already imported demo contents using **One Click Demo Import** feature.
+    
+### **Step 1**
 
-Importing demo contents and making your site one step closer to the theme demo requires following steps.
+Go to **Dashboard → Settings → Permalinks** and choose Post name from Common Settings and save the changes, As displayed in screen shot below.
 
-1. Importing XML file
-2. Configuring Menus
+![Screenshot](images/install/permalinks.png)
 
-Look for **Import XML** folder in unzipped package downloaded from themeforest and use the XML within it.
-Go to the **Dashboard** &raquo; **Tools** &raquo; **Import ** and click **WordPress** as displayed in image below.
+### **Step 2** 
+
+Go to the **Dashboard** &raquo; **Tools** &raquo; **Import** and click Install Now shown under WordPress as displayed in image below.
 
 ![](images/install/4.png)
 
-At 1st time you need to install WordPress importer plugin
+Once installed you need to activate the plugin and run the importer.
 
 ![](images/install/5.png)
 
-Once installed you need to activate the plugin and run the importer.
-
-![](images/install/6.png)
+### **Step 3** 
 
 Select the XML file from **demo** directory under **Import XML** directory in unzipped package that you have downloaded from themeforest.
 
@@ -58,22 +67,23 @@ After that is done, you will have bunch of posts, pages, doctors, gallery items,
 
 ![](images/install/9.png)
 
-Next step is to configure menu.
+### **Step 4** 
 
-## Configure Menus
 Navigate to **Dashboard** &raquo; **Appearance** &raquo; **Menus** and use the Already Imported Menu from XML and assign it to theme location "Main Menu" from **Menu Settings** section below menu. After that save the menu. As pointed in screenshot below.
 
 ![](images/install/10.png)
 
-## Import Theme Options
+### **Step 5** 
 
-There are two ways to import demo theme options.
+#### Import Theme Options
+ 
+ There are two ways to import demo theme options.
 
-### 1st Way - Import from File
+#### 1st Way - Import from File
 
 1. Go to **Dashboard** &raquo; **Theme Options** &raquo; **Import/Export**
 2. Click '**Import from file**' button, It will display an import text box.
-3. Look for file named "**demo-theme-options-for-import.txt**" into **Import Theme Options** folder in unzipped package downloaded from themeforest
+3. Look for selected design variation Theme Options file into the **Import Theme Options** folder in unzipped package downloaded from themeforest
 4. Open the file in a text editor and copy all its contents.
 5. Paste all those contents into import text box as displayed below.
 6. Press '**Import**' button
@@ -81,7 +91,7 @@ There are two ways to import demo theme options.
 
 ![](images/install/12-1.png)
 
-### 2nd Way - Import from URL
+#### 2nd Way - Import from URL
 
 1. Go to **Dashboard** &raquo; **Theme Options** &raquo; **Import/Export**
 2. Click '**Import from URL**' button
@@ -89,8 +99,14 @@ There are two ways to import demo theme options.
 4. Press '**Import**' button
 5. Press '**Save Changes**' button once the theme options are imported.
 
+
+**Import URL for Default Design Variation**
 ```py
 http://medicalpress-min.inspirythemes.biz/wp-admin/admin-ajax.php?action=redux_download_options-redux_demo&secret=19a70075b0eb105a5530ed121e177ee9
+```
+**Import URL for Reborn Design Variation**
+```py
+http://medicalpress-reborn.inspirydemos.com/wp-admin/admin-ajax.php?action=redux_download_options-redux_demo&secret=23a5ff8e9980cf7a9495b90327300895
 ```
 
 ![](images/install/12.png)
