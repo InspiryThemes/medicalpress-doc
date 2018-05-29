@@ -9,23 +9,22 @@ site_description: Documentation for MedicalPress Theme
 site_author: Inspiry Themes
 
 # Theme
-theme: material
+theme: 'material'
+
+extra_css:
+  - css/extra.css
 
 # Options
 extra:
   palette:
     primary: 'red'
     accent: 'red'
-extra_css:
-  - css/extra.css
-
-extra:
   social:
     - type: 'facebook'
       link: 'https://www.facebook.com/InspiryThemes/'
     - type: 'twitter'
       link: 'https://twitter.com/InspiryThemes'
-      
+
 # Page tree
 pages:
   - Introduction: index.md
