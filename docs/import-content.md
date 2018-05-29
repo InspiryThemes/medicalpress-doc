@@ -102,11 +102,11 @@ Navigate to **Dashboard** &raquo; **Appearance** &raquo; **Menus** and use the A
 
 **Import URL for Default Design Variation**
 ```py
-http://medicalpress-min.inspirythemes.biz/wp-admin/admin-ajax.php?action=redux_download_options-redux_demo&secret=19a70075b0eb105a5530ed121e177ee9
+http://medicalpress-min.inspirydemos.com/wp-admin/admin-ajax.php?action=redux_download_options-redux_demo&secret=efc7c4f980e586fd8514065e994f403b
 ```
 **Import URL for Reborn Design Variation**
 ```py
-http://medicalpress-reborn.inspirydemos.com/wp-admin/admin-ajax.php?action=redux_download_options-redux_demo&secret=23a5ff8e9980cf7a9495b90327300895
+http://medicalpress-reborn-min.inspirydemos.com/wp-admin/admin-ajax.php?action=redux_download_options-redux_demo&secret=87e71739a64960e1e65b97eac20c4139
 ```
 
 ![](images/install/12.png)
