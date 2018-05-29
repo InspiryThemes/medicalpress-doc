@@ -62,23 +62,58 @@
         }, 
         {
             "location": "/import-content/index.html", 
-            "text": "Auto Import Demo Contents\n\n\nDemo Importer will help you setup your site like the theme demo, with only one click.\n\n\n\n\nNote\n\n\nJust make sure all the required plugins are installed.\n\n\n\n\nGo to \nDashboard\n \n \nTheme Options\n \n \nDemo Importer\n and press \nImport Demo\n button, As pointed in screen shot below.\n\n\n\n\nNow wait, It can take few minutes as images are fetched from remote server.\n You can visit your site once done.\n\n\nSome time import process can become freezed/halted due to delays in fetching data from remote server.\nYou can verify this by visiting media library in a new tab and analysing the number of images imported.\n\n\nIn this case, Simply refresh theme options and re-click the demo import button as it will not add duplicate entries\nand simply resume from where it halted last time. It only adds duplicate entries in menu and those can be removed easily.\n\n\nFor any further help you can create a support ticket on our \nSupport\n site.\n\n\nImport XML for Demo Contents\n\n\n\n\nInfo\n\n\nYou do not need to follow this section if you have already imported demo contents using \nAuto Import Demo Contents\n feature.\n\n\n\n\nImporting demo contents and making your site one step closer to the theme demo requires following steps.\n\n\n\n\nImporting XML file\n\n\nConfiguring Menus\n\n\n\n\nLook for \nImport XML\n folder in unzipped package downloaded from themeforest and use the XML within it.\nGo to the \nDashboard\n \n \nTools\n \n \nImport ** and click **WordPress\n as displayed in image below.\n\n\n\n\nAt 1\nst\n time you need to install WordPress importer plugin\n\n\n\n\nOnce installed you need to activate the plugin and run the importer.\n\n\n\n\nSelect the XML file from \ndemo\n directory under \nImport XML\n directory in unzipped package that you have downloaded from themeforest.\n\n\n\n\nAfter importing XML file.\n\n\n\n\nAssign posts to an existing author.\n\n\nMark the checkbox to download and import file attachments\n\n\nClick '\nSubmit\n' button\n\n\n\n\n\n\nAfter that is done, you will have bunch of posts, pages, doctors, gallery items, services and other contents as on the theme demo.\n\n\n\n\nNext step is to configure menu.\n\n\nConfigure Menus\n\n\nNavigate to \nDashboard\n \n \nAppearance\n \n \nMenus\n and use the Already Imported Menu from XML and assign it to theme location \"Main Menu\" from \nMenu Settings\n section below menu. After that save the menu. As pointed in screenshot below.\n\n\n\n\nImport Theme Options\n\n\nThere are two ways to import demo theme options.\n\n\n1\nst\n Way - Import from File\n\n\n\n\nGo to \nDashboard\n \n \nTheme Options\n \n \nImport/Export\n\n\nClick '\nImport from file\n' button, It will display an import text box.\n\n\nLook for file named \"\ndemo-theme-options-for-import.txt\n\" into \nImport Theme Options\n folder in unzipped package downloaded from themeforest\n\n\nOpen the file in a text editor and copy all its contents.\n\n\nPaste all those contents into import text box as displayed below.\n\n\nPress '\nImport\n' button\n\n\nPress '\nSave Changes\n' button once the theme options are imported.\n\n\n\n\n\n\n2\nnd\n Way - Import from URL\n\n\n\n\nGo to \nDashboard\n \n \nTheme Options\n \n \nImport/Export\n\n\nClick '\nImport from URL\n' button\n\n\nCopy the import URL given below and paste it into the URL field \n\n\nPress '\nImport\n' button\n\n\nPress '\nSave Changes\n' button once the theme options are imported.\n\n\n\n\n1\nhttp\n:\n//\nmedicalpress\n-\nmin\n.\ninspirythemes\n.\nbiz\n/\nwp\n-\nadmin\n/\nadmin\n-\najax\n.\nphp\n?\naction\n=\nredux_download_options\n-\nredux_demo\nsecret\n=\n19\na70075b0eb105a5530ed121e177ee9", 
+            "text": "You can follow one of these approaches.\n\n\n\n\nOne Click Demo Import \n( Automatic \n Recommended )\n\n\nImport XML for Demo Contents\n\n\n\n\n\n\nNote\n\n\nJust make sure all the required plugins are installed.\n\n\n\n\n1 - One Click Demo Import (Automatic \n Recommended)\n\n\nStep 1\n\n\nGo to \nDashboard \u2192 Settings \u2192 Permalinks\n and choose Post name from Common Settings and save the changes, As displayed in screen shot below.\n\n\n\n\nStep 2\n\n\nGo to \nAppearance \u2192 Import Demo Data\n and click on blue \nImport\n button of selected design variation. You will see a popup so click on the blue \nYes, import!\n button again to confirm the import for the relevant layout of the theme. Wait for few minutes as the demo images are being fetched from the remote server and this process can take a couple of minutes.\n\n\n\n\nStep 3\n\n\nOnce the import process is complete, You will receive a notice like the one displayed in the screenshot below.\n\n\n\n\nVisit your site and you will find your site working like the theme demo. In case of any problem, Get in touch with our support team using our \nsupport\n site.\n\n\n2 - Import XML for Demo Contents\n\n\n\n\nInfo\n\n\nYou do not need to follow this section if you have already imported demo contents using \nOne Click Demo Import\n feature.\n\n\n\n\nStep 1\n\n\nGo to \nDashboard \u2192 Settings \u2192 Permalinks\n and choose Post name from Common Settings and save the changes, As displayed in screen shot below.\n\n\n\n\nStep 2\n\n\nGo to the \nDashboard\n \n \nTools\n \n \nImport\n and click Install Now shown under WordPress as displayed in image below.\n\n\n\n\nOnce installed you need to activate the plugin and run the importer.\n\n\n\n\nStep 3\n\n\nSelect the XML file from \ndemo\n directory under \nImport XML\n directory in unzipped package that you have downloaded from themeforest.\n\n\n\n\nAfter importing XML file.\n\n\n\n\nAssign posts to an existing author.\n\n\nMark the checkbox to download and import file attachments\n\n\nClick '\nSubmit\n' button\n\n\n\n\n\n\nAfter that is done, you will have bunch of posts, pages, doctors, gallery items, services and other contents as on the theme demo.\n\n\n\n\nStep 4\n\n\nNavigate to \nDashboard\n \n \nAppearance\n \n \nMenus\n and use the Already Imported Menu from XML and assign it to theme location \"Main Menu\" from \nMenu Settings\n section below menu. After that save the menu. As pointed in screenshot below.\n\n\n\n\nStep 5\n\n\nImport Theme Options\n\n\nThere are two ways to import demo theme options.\n\n\n1\nst\n Way - Import from File\n\n\n\n\nGo to \nDashboard\n \n \nTheme Options\n \n \nImport/Export\n\n\nClick '\nImport from file\n' button, It will display an import text box.\n\n\nLook for selected design variation Theme Options file into the \nImport Theme Options\n folder in unzipped package downloaded from themeforest\n\n\nOpen the file in a text editor and copy all its contents.\n\n\nPaste all those contents into import text box as displayed below.\n\n\nPress '\nImport\n' button\n\n\nPress '\nSave Changes\n' button once the theme options are imported.\n\n\n\n\n\n\n2\nnd\n Way - Import from URL\n\n\n\n\nGo to \nDashboard\n \n \nTheme Options\n \n \nImport/Export\n\n\nClick '\nImport from URL\n' button\n\n\nCopy the import URL given below and paste it into the URL field \n\n\nPress '\nImport\n' button\n\n\nPress '\nSave Changes\n' button once the theme options are imported.\n\n\n\n\nImport URL for Default Design Variation\n\n\n1\nhttp\n:\n//\nmedicalpress\n-\nmin\n.\ninspirydemos\n.\ncom\n/\nwp\n-\nadmin\n/\nadmin\n-\najax\n.\nphp\n?\naction\n=\nredux_download_options\n-\nredux_demo\nsecret\n=\nefc7c4f980e586fd8514065e994f403b\n\n\n\n\n\n\nImport URL for Reborn Design Variation\n\n\n1\nhttp\n:\n//\nmedicalpress\n-\nreborn\n-\nmin\n.\ninspirydemos\n.\ncom\n/\nwp\n-\nadmin\n/\nadmin\n-\najax\n.\nphp\n?\naction\n=\nredux_download_options\n-\nredux_demo\nsecret\n=\n87e71739\na64960e1e65b97eac20c4139", 
             "title": "Import Demo Content"
         }, 
         {
-            "location": "/import-content/index.html#auto-import-demo-contents", 
-            "text": "Demo Importer will help you setup your site like the theme demo, with only one click.   Note  Just make sure all the required plugins are installed.   Go to  Dashboard     Theme Options     Demo Importer  and press  Import Demo  button, As pointed in screen shot below.   Now wait, It can take few minutes as images are fetched from remote server.  You can visit your site once done.  Some time import process can become freezed/halted due to delays in fetching data from remote server.\nYou can verify this by visiting media library in a new tab and analysing the number of images imported.  In this case, Simply refresh theme options and re-click the demo import button as it will not add duplicate entries\nand simply resume from where it halted last time. It only adds duplicate entries in menu and those can be removed easily.  For any further help you can create a support ticket on our  Support  site.", 
-            "title": "Auto Import Demo Contents"
+            "location": "/import-content/index.html#1-one-click-demo-import-automatic-recommended", 
+            "text": "", 
+            "title": "1 - One Click Demo Import (Automatic &amp; Recommended)"
         }, 
         {
-            "location": "/import-content/index.html#import-xml-for-demo-contents", 
-            "text": "Info  You do not need to follow this section if you have already imported demo contents using  Auto Import Demo Contents  feature.   Importing demo contents and making your site one step closer to the theme demo requires following steps.   Importing XML file  Configuring Menus   Look for  Import XML  folder in unzipped package downloaded from themeforest and use the XML within it.\nGo to the  Dashboard     Tools     Import ** and click **WordPress  as displayed in image below.   At 1 st  time you need to install WordPress importer plugin   Once installed you need to activate the plugin and run the importer.   Select the XML file from  demo  directory under  Import XML  directory in unzipped package that you have downloaded from themeforest.   After importing XML file.   Assign posts to an existing author.  Mark the checkbox to download and import file attachments  Click ' Submit ' button    After that is done, you will have bunch of posts, pages, doctors, gallery items, services and other contents as on the theme demo.   Next step is to configure menu.", 
-            "title": "Import XML for Demo Contents"
+            "location": "/import-content/index.html#step-1", 
+            "text": "Go to  Dashboard \u2192 Settings \u2192 Permalinks  and choose Post name from Common Settings and save the changes, As displayed in screen shot below.", 
+            "title": "Step 1"
         }, 
         {
-            "location": "/import-content/index.html#configure-menus", 
+            "location": "/import-content/index.html#step-2", 
+            "text": "Go to  Appearance \u2192 Import Demo Data  and click on blue  Import  button of selected design variation. You will see a popup so click on the blue  Yes, import!  button again to confirm the import for the relevant layout of the theme. Wait for few minutes as the demo images are being fetched from the remote server and this process can take a couple of minutes.", 
+            "title": "Step 2"
+        }, 
+        {
+            "location": "/import-content/index.html#step-3", 
+            "text": "Once the import process is complete, You will receive a notice like the one displayed in the screenshot below.   Visit your site and you will find your site working like the theme demo. In case of any problem, Get in touch with our support team using our  support  site.", 
+            "title": "Step 3"
+        }, 
+        {
+            "location": "/import-content/index.html#2-import-xml-for-demo-contents", 
+            "text": "Info  You do not need to follow this section if you have already imported demo contents using  One Click Demo Import  feature.", 
+            "title": "2 - Import XML for Demo Contents"
+        }, 
+        {
+            "location": "/import-content/index.html#step-1_1", 
+            "text": "Go to  Dashboard \u2192 Settings \u2192 Permalinks  and choose Post name from Common Settings and save the changes, As displayed in screen shot below.", 
+            "title": "Step 1"
+        }, 
+        {
+            "location": "/import-content/index.html#step-2_1", 
+            "text": "Go to the  Dashboard     Tools     Import  and click Install Now shown under WordPress as displayed in image below.   Once installed you need to activate the plugin and run the importer.", 
+            "title": "Step 2"
+        }, 
+        {
+            "location": "/import-content/index.html#step-3_1", 
+            "text": "Select the XML file from  demo  directory under  Import XML  directory in unzipped package that you have downloaded from themeforest.   After importing XML file.   Assign posts to an existing author.  Mark the checkbox to download and import file attachments  Click ' Submit ' button    After that is done, you will have bunch of posts, pages, doctors, gallery items, services and other contents as on the theme demo.", 
+            "title": "Step 3"
+        }, 
+        {
+            "location": "/import-content/index.html#step-4", 
             "text": "Navigate to  Dashboard     Appearance     Menus  and use the Already Imported Menu from XML and assign it to theme location \"Main Menu\" from  Menu Settings  section below menu. After that save the menu. As pointed in screenshot below.", 
-            "title": "Configure Menus"
+            "title": "Step 4"
+        }, 
+        {
+            "location": "/import-content/index.html#step-5", 
+            "text": "", 
+            "title": "Step 5"
         }, 
         {
             "location": "/import-content/index.html#import-theme-options", 
@@ -87,12 +122,12 @@
         }, 
         {
             "location": "/import-content/index.html#1st-way-import-from-file", 
-            "text": "Go to  Dashboard     Theme Options     Import/Export  Click ' Import from file ' button, It will display an import text box.  Look for file named \" demo-theme-options-for-import.txt \" into  Import Theme Options  folder in unzipped package downloaded from themeforest  Open the file in a text editor and copy all its contents.  Paste all those contents into import text box as displayed below.  Press ' Import ' button  Press ' Save Changes ' button once the theme options are imported.", 
+            "text": "Go to  Dashboard     Theme Options     Import/Export  Click ' Import from file ' button, It will display an import text box.  Look for selected design variation Theme Options file into the  Import Theme Options  folder in unzipped package downloaded from themeforest  Open the file in a text editor and copy all its contents.  Paste all those contents into import text box as displayed below.  Press ' Import ' button  Press ' Save Changes ' button once the theme options are imported.", 
             "title": "1st Way - Import from File"
         }, 
         {
             "location": "/import-content/index.html#2nd-way-import-from-url", 
-            "text": "Go to  Dashboard     Theme Options     Import/Export  Click ' Import from URL ' button  Copy the import URL given below and paste it into the URL field   Press ' Import ' button  Press ' Save Changes ' button once the theme options are imported.   1 http : // medicalpress - min . inspirythemes . biz / wp - admin / admin - ajax . php ? action = redux_download_options - redux_demo secret = 19 a70075b0eb105a5530ed121e177ee9", 
+            "text": "Go to  Dashboard     Theme Options     Import/Export  Click ' Import from URL ' button  Copy the import URL given below and paste it into the URL field   Press ' Import ' button  Press ' Save Changes ' button once the theme options are imported.   Import URL for Default Design Variation  1 http : // medicalpress - min . inspirydemos . com / wp - admin / admin - ajax . php ? action = redux_download_options - redux_demo secret = efc7c4f980e586fd8514065e994f403b    Import URL for Reborn Design Variation  1 http : // medicalpress - reborn - min . inspirydemos . com / wp - admin / admin - ajax . php ? action = redux_download_options - redux_demo secret = 87e71739 a64960e1e65b97eac20c4139", 
             "title": "2nd Way - Import from URL"
         }, 
         {
