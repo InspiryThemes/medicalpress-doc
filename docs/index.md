@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This documentation is last updated on 29th May, 2018.
+This documentation is last updated on 19th December, 2018.
 
 Thank you for purchasing MedicalPress WordPress Theme. If you have any question that is beyond the scope of this documentation, Please signup to our [support website](https://support.inspirythemes.com/login-register/) and [ask your question](https://support.inspirythemes.com/ask-question/) over there. 
 You can visit [this knowledge base article](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/) to learn about how to get item purchase code from themeforest to signup on our support site.
