@@ -26,3 +26,6 @@ The appointment form for **Reborn** design variation will be available as modal.
 
 6. You can also choose to **Collapse the Appointment Form by Default** on homepage. If you will choose **YES** for this option then the appointment form will be hidden by default and the user will have to click on its heading to bring it up.
 ![Collapsed Appointment Form](images/appointment/collapsed-appointment-form.png)
+
+7. For spam protection we offer **google reCaptcha** support that you can enable for your home page appointment form as well.
+![Appointment Form reCaptcha](images/appointment/recaptcha.png)

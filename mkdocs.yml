@@ -26,7 +26,7 @@ extra:
       link: 'https://twitter.com/InspiryThemes'
 
 # Page tree
-pages:
+nav:
   - Introduction: index.md
   - Theme Installation: theme-installation.md
   - Design Selection: design-selection.md
@@ -70,12 +70,12 @@ use_directory_urls: false
 # Extensions
 markdown_extensions:
   - admonition
-  - codehilite(guess_lang=true,linenums=true)
-  - toc(permalink=true)
+  - codehilite
+  - toc
   - meta
   - footnotes
   - pymdownx.arithmatex
-  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.betterem
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.emoji:
@@ -85,5 +85,5 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences
-  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tasklist
   - pymdownx.tilde

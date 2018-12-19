@@ -4,6 +4,7 @@ Go to **Dashboard** &raquo; **Posts** &raquo; **Add New**
     This theme supports various post formats. So, when you select a post format look out for related meta boxes that will appear after your selection. You need to fill out those meta boxes with related information, so that your post can appear in best possible design.
 
 1. Provide the post title
+![Post Title](images/contents/post-title.png)
 
 2. Select the related post format
 ![Post Format](images/contents/3.png)
