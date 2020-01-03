@@ -40,7 +40,7 @@
     
     
       
-        <title>Appointment Form - MedicalPress Documentation</title>
+        <title>Google recaptcha - MedicalPress Documentation</title>
       
     
     
@@ -81,7 +81,7 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
-      <a href="#setup-appointment-form" tabindex="1" class="md-skip">
+      <a href="#how-to-get-google-maps-api-key-for-your-website" tabindex="1" class="md-skip">
         Skip to content
       </a>
     
@@ -106,7 +106,7 @@
               MedicalPress Documentation
             </span>
             <span class="md-header-nav__topic">
-              Appointment Form
+              Google recaptcha
             </span>
           
         </div>
@@ -232,12 +232,10 @@
       
       
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+  <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6" checked>
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6">
     
     <label class="md-nav__link" for="nav-6">
       Home & News Pages
@@ -277,20 +275,11 @@
           
           
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active">
-    
-    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-    
-      
-    
-    
-    <a href="appointment-form.html" title="Appointment Form" class="md-nav__link md-nav__link--active">
+  <li class="md-nav__item">
+    <a href="appointment-form.html" title="Appointment Form" class="md-nav__link">
       Appointment Form
     </a>
-    
   </li>
 
         
@@ -637,8 +626,29 @@
 <nav class="md-nav md-nav--secondary">
   
   
-    
   
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-get-google-maps-api-key-for-your-website" title="How to get Google Maps API Key for your website" class="md-nav__link">
+    How to get Google Maps API Key for your website
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-verify-domain-with-google" title="How to verify domain with Google" class="md-nav__link">
+    How to verify domain with Google
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
   
 </nav>
                   </div>
@@ -651,46 +661,36 @@
               
                 
                 
-                <h1 id="setup-appointment-form">Setup Appointment Form</h1>
+                  <h1>Google recaptcha</h1>
+                
+                <h2 id="how-to-get-google-maps-api-key-for-your-website">How to get Google Maps API Key for your website</h2>
+<div class="admonition info">
+<p class="admonition-title">Info</p>
+<p>As of June 2016, to keep Google Maps running smoothly on your website you need a special API Key. To get and setup the API Key for Google Maps please follow the instructions below.</p>
+</div>
 <ol>
 <li>
-<p>To set up <strong>Appointment Form</strong> visit <strong>Dashboard</strong> &raquo; <strong>Theme Options</strong> &raquo; <strong>Home</strong> and enable the appointment form as pointed in screen shot below.
-<img alt="Appointment Form" src="images/appointment/1.png" /></p>
+<p>Please go to <a href="https://console.developers.google.com/flows/enableapi?apiid=maps_backend,geocoding_backend,directions_backend,distance_matrix_backend,elevation_backend&amp;keyType=CLIENT_SIDE&amp;reusekey=true">Google API Console</a> and login with your google account.</p>
 </li>
 <li>
-<p>After that you need to provide your email address to receive appointment request messages. You can also add more emails in BCC or CC input email fields, if there are multiple emails to be added then put comma ( , ) after each email except the last one.
-<br/>------------------------------------------------------------------------------------------------------------------------------------------------
-<br/><strong>Note:</strong> The appointment form will not be displayed if the email field is empty.
-<br/>------------------------------------------------------------------------------------------------------------------------------------------------
-<img alt="" src="images/appointment/2.png" /></p>
+<p>Create a new project or select an existing project then click on <strong>Continue</strong> to enable the API and any related services.
+<img alt="Create a new project" src="images/google-maps/create-or-existing.png" /></p>
 </li>
 <li>
-<p>After setting up above mentioned mandatory fields you can choose the <strong>Appointment Form Design</strong> that you want to use and provide the related information.
-<br/>------------------------------------------------------------------------------------------------------------------------------------------------
-<br/><strong>Note:</strong> The following design variations are only available for <strong>Default</strong> design variation.
-<br/>------------------------------------------------------------------------------------------------------------------------------------------------
-<img alt="Appointment Form Design" src="images/appointment/appointment-form-design.jpg" />
-The appointment form for <strong>Reborn</strong> design variation will be available as modal.
-<img alt="Appointment Form Button" src="images/appointment/3.png" />
-<img alt="Appointment Form Design for Reborn Variation" src="images/appointment/4.png" /></p>
+<p>Name your browser key and restrict it by adding your site URLs as shown in the screenshot below.
+<img alt="Credentials" src="images/google-maps/credentials.png" /></p>
 </li>
 <li>
-<p>Since version 1.6.0, we have added an option for "<strong>Appointment Confirmation Email</strong>" which allows our clients to customize the appointment confirmation email.
-<img alt="Appointment Confirmation Email" src="images/appointment/appointment-confirmation-email.png" /></p>
+<p>Copy the generated Google Maps API key from the popup, you will need this to set in <strong>Theme Options</strong> panel (<strong>Dashboard</strong> &raquo; <strong>Theme Options</strong> &raquo; <strong>Contact</strong> &raquo; <strong>Google Map Api Key</strong>). Click on <strong>Close</strong> button to proceed.
+<img alt="API Key" src="images/google-maps/api-key.png" /></p>
 </li>
 <li>
-<p>From version 1.6.0, Thank you page option for appointment form is added which adds a redirect function in the appointment form and the users will be redirected to the selected page after successful submission.
-<img alt="Thank you page option for Appointment Form" src="images/appointment/thank-you-page.png" /></p>
-</li>
-<li>
-<p>You can also choose to <strong>Collapse the Appointment Form by Default</strong> on homepage. If you will choose <strong>YES</strong> for this option then the appointment form will be hidden by default and the user will have to click on its heading to bring it up.
-<img alt="Collapsed Appointment Form" src="images/appointment/collapsed-appointment-form.png" /></p>
-</li>
-<li>
-<p>For spam protection we offer <strong>google reCaptcha</strong> support that you can enable for your home page appointment form as well. You can read more about it by going to reCaptcha setup option. Please see the <a href="google-recaptcha.html">project license</a> for further details.
-<img alt="Appointment Form reCaptcha" src="images/appointment/recaptcha.png" /></p>
+<p>By default most of the APIs are enabled but you have to enable all other APIs too in order to avoid any problems in the future.
+<img alt="All Apis" src="images/google-maps/all-apis.png" /></p>
 </li>
 </ol>
+<h2 id="how-to-verify-domain-with-google">How to verify domain with Google</h2>
+<p>Visit this link to <a href="https://support.google.com/webmasters/answer/35179">verify domain with Google</a></p>
                 
                   
                 
@@ -707,41 +707,6 @@ The appointment form for <strong>Reborn</strong> design variation will be availa
       
         
 <footer class="md-footer">
-  
-    <div class="md-footer-nav">
-      <nav class="md-footer-nav__inner md-grid">
-        
-          <a href="slider-settings.html" title="Slider Settings" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
-            <div class="md-flex__cell md-flex__cell--shrink">
-              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
-            </div>
-            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
-              <span class="md-flex__ellipsis">
-                <span class="md-footer-nav__direction">
-                  Previous
-                </span>
-                Slider Settings
-              </span>
-            </div>
-          </a>
-        
-        
-          <a href="features-section.html" title="Features Section" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
-            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
-              <span class="md-flex__ellipsis">
-                <span class="md-footer-nav__direction">
-                  Next
-                </span>
-                Features Section
-              </span>
-            </div>
-            <div class="md-flex__cell md-flex__cell--shrink">
-              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
-            </div>
-          </a>
-        
-      </nav>
-    </div>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
