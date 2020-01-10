@@ -4,7 +4,7 @@ MedicalPress Theme offers two completely different design variations named **Def
 
 Please note that there could be more than one minor feature differences between both design variations due to design limitations.
 
-To select design variation, Go to **Dashboard** &raquo; **Theme Options** &raquo; **Design Variation**.
+To select design variation, Go to **Dashboard** &raquo; **MedicalPress** &raquo; **Theme Options** &raquo; **Design Variation**.
 
 ![Design Selection](images/install/3.png)
 

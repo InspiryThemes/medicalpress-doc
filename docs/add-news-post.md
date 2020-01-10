@@ -9,7 +9,7 @@ Go to **Dashboard** &raquo; **Posts** &raquo; **Add New**
 2. Select the related post format
 ![Post Format](images/contents/3.png)
 
-3. Enter the post contents if any and add MORE tag after few lines
+3. This theme is fully supported with latest gutenberg block editor and all basic elements. Enter the post contents if any and add MORE tag after few lines.
 ![](images/contents/2.png)
 
 4. Provide the featured image. The image should have minimum width of 732px. Its height is flexible so you can upload the image of any height.

@@ -1,4 +1,4 @@
-Go to **Dashboard** &raquo; **Services** &raquo; **Add New**
+Go to **Dashboard** &raquo; **MedicalPress** &raquo; **Services** &raquo; **Add New**
 
 1. Provide the service name
 ![name](images/contents/15.png)

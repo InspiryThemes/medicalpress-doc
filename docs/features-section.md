@@ -1,6 +1,6 @@
 # Home Features Section
 
-To set up features section, Go to **Dashboard** &raquo; **Theme Options** &raquo; **Home** &raquo; **Home - Features** and configure the related options.
+To set up features section, Go to **Dashboard** **MedicalPress** &raquo; **Theme Options** &raquo; **Home** &raquo; **Home - Features** and configure the related options.
 
 ### Home Features Options for Default Design Variation 
 
@@ -13,4 +13,4 @@ To set up features section, Go to **Dashboard** &raquo; **Theme Options** &raquo
 
 ![Home Features Reborn Options](images/features/home-features-reborn-options.jpeg) 
    
-![Home Features Front Design](images/features/home-features-reborn.png)    
+![Home Features Front Design](images/features/home-features-reborn.png)

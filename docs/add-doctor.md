@@ -1,4 +1,4 @@
-Go to **Dashboard** &raquo; **Doctors** &raquo; **Add New**
+Go to **Dashboard** &raquo; **MedicalPress** &raquo; **Doctors** &raquo; **Add New**
 
 1. Provide the doctor name
 ![doctor name](images/contents/4.png)

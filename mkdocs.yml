@@ -55,6 +55,7 @@ nav:
   - Theme Options: theme-options.md
   - Other Features: other-features.md
   - Google Maps: google-map.md
+  - Google reCaptcha: google-recaptcha.md
   - WPML: wpml.md
   - Customize Theme:
     - Customize Styles: customize-styles.md

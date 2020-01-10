@@ -1,10 +1,10 @@
 # Configure Header Settings
 
-To configure header related settings kindly navigate to **Dashboard** &raquo; **Theme Options** &raquo; **Header** and configure the options according to your choice.
+To configure header related settings kindly navigate to **Dashboard** &raquo; **MedicalPress** &raquo; **Theme Options** &raquo; **Header** and configure the options according to your choice.
 
-![Header Settings](images/header/header-settings.png)
+![Header Settings](images/header/header-settings.jpg)
 
-### Default Variation Specific Header Options 
+### Default Variation Specific Header Options
 
 Following options are available only in **<em>Default</em>** design variation.
 

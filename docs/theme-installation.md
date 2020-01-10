@@ -28,7 +28,7 @@ Once you have a working of version of WordPress, you need to download **All File
 
 After you have installed and activated the theme, there'll be a list of **required** plugins at the top of the WordPress dashboard. 
 
-![Install](images/install/2.png)
+![Install](images/install/plugins-required.jpg)
 
 If you already hide it out, you can go to **Appearance** &raquo; **Install Plugins** section instead. 
 
@@ -36,13 +36,13 @@ So, you need to install and activate these plugins as demonstrated below.
 
 **Step 1**
 
-![Install Step 1.0](images/install/2-0.png)
+![Install Step 1.0](images/install/plugin-install.jpg)
 
-![Install Step 1.1](images/install/2-1.png)
+![Install Step 1.1](images/install/plugins-installed.jpg)
 
 **Step 2**
 
-![Install Step 2](images/install/2-2.png)
+![Install Step 2](images/install/plugin-activate.jpg)
 
 ## 3.Install Child Theme (Highly Recommended)
 

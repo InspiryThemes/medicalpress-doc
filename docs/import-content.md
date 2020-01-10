@@ -8,19 +8,19 @@ You can follow one of these approaches.
 
 ## 1 - One Click Demo Import (Automatic & Recommended)
 
-### **Step 1**
+### **a. Set Permalinks**
 
 Go to **Dashboard → Settings → Permalinks** and choose Post name from Common Settings and save the changes, As displayed in screen shot below.
 
 ![Screenshot](images/install/permalinks.png)
 
-### **Step 2**
+### **b. Demo Import**
 
-Go to **Appearance → Import Demo Data** and click on blue **Import** button of selected design variation. You will see a popup so click on the blue **Yes, import!** button again to confirm the import for the relevant layout of the theme. Wait for few minutes as the demo images are being fetched from the remote server and this process can take a couple of minutes.
+Go to **MedicalPress → Demo Import** and click on blue **Import** button of selected design variation. You will see a popup so click on the blue **Yes, import!** button again to confirm the import for the relevant layout of the theme. Wait for few minutes as the demo images are being fetched from the remote server and this process can take a couple of minutes.
 
-![Screenshot](images/install/demo-import.png)
+![Screenshot](images/install/demo-import.jpg)
 
-### **Step 3**
+### **c. Import Done Notice**
 
 Once the import process is complete, You will receive a notice like the one displayed in the screenshot below.
 
@@ -33,13 +33,13 @@ Visit your site and you will find your site working like the theme demo. In case
 !!! info "Info"
     You do not need to follow this section if you have already imported demo contents using **One Click Demo Import** feature.
     
-### **Step 1**
+### **a. Set Permalinks**
 
 Go to **Dashboard → Settings → Permalinks** and choose Post name from Common Settings and save the changes, As displayed in screen shot below.
 
 ![Screenshot](images/install/permalinks.png)
 
-### **Step 2** 
+### **b. Install WordPress Import Plugin** 
 
 Go to the **Dashboard** &raquo; **Tools** &raquo; **Import** and click Install Now shown under WordPress as displayed in image below.
 
@@ -49,7 +49,7 @@ Once installed you need to activate the plugin and run the importer.
 
 ![](images/install/5.png)
 
-### **Step 3** 
+### **c. Upload and Import XML file** 
 
 Select the XML file from **demo** directory under **Import XML** directory in unzipped package that you have downloaded from themeforest.
 
@@ -67,13 +67,13 @@ After that is done, you will have bunch of posts, pages, doctors, gallery items,
 
 ![](images/install/9.png)
 
-### **Step 4** 
+### **d. Set Menus** 
 
 Navigate to **Dashboard** &raquo; **Appearance** &raquo; **Menus** and use the Already Imported Menu from XML and assign it to theme location "Main Menu" from **Menu Settings** section below menu. After that save the menu. As pointed in screenshot below.
 
 ![](images/install/10.png)
 
-### **Step 5** 
+### **e. Theme Options** 
 
 #### Import Theme Options
  
@@ -81,7 +81,7 @@ Navigate to **Dashboard** &raquo; **Appearance** &raquo; **Menus** and use the A
 
 #### 1st Way - Import from File
 
-1. Go to **Dashboard** &raquo; **Theme Options** &raquo; **Import/Export**
+1. Go to **Dashboard** &raquo; **MedicalPress** &raquo; **Theme Options** &raquo; **Import/Export**
 2. Click '**Import from file**' button, It will display an import text box.
 3. Look for selected design variation Theme Options file into the **Import Theme Options** folder in unzipped package downloaded from themeforest
 4. Open the file in a text editor and copy all its contents.
@@ -93,7 +93,7 @@ Navigate to **Dashboard** &raquo; **Appearance** &raquo; **Menus** and use the A
 
 #### 2nd Way - Import from URL
 
-1. Go to **Dashboard** &raquo; **Theme Options** &raquo; **Import/Export**
+1. Go to **Dashboard** &raquo; **MedicalPress** &raquo; **Theme Options** &raquo; **Import/Export**
 2. Click '**Import from URL**' button
 3. Copy the import URL given below and paste it into the URL field 
 4. Press '**Import**' button

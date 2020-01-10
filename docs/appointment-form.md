@@ -1,6 +1,6 @@
 # Setup Appointment Form
-    
-1. To set up **Appointment Form** visit **Dashboard** &raquo; **Theme Options** &raquo; **Home** and enable the appointment form as pointed in screen shot below.
+
+1. To set up **Appointment Form** visit **Dashboard** &raquo; **MedicalPress** &raquo; **Theme Options** &raquo; **Home** and enable the appointment form as pointed in screen shot below.
 ![Appointment Form](images/appointment/1.png)
 
 2. After that you need to provide your email address to receive appointment request messages. You can also add more emails in BCC or CC input email fields, if there are multiple emails to be added then put comma ( , ) after each email except the last one.
@@ -29,3 +29,5 @@ The appointment form for **Reborn** design variation will be available as modal.
 
 7. For spam protection we offer **google reCaptcha** support that you can enable for your home page appointment form as well.
 ![Appointment Form reCaptcha](images/appointment/recaptcha.png)
+
+You can read more about it by going to reCaptcha setup option. Please see the [reCaptcha Config](google-recaptcha.md) for further details.

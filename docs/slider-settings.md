@@ -1,6 +1,6 @@
 ## Set Up Default Slider
 
-To set up default slider visit **Dashboard** &raquo; **Theme Options** &raquo; **Home** and configure the related settings as pointed in screen shot below.
+To set up default slider visit **Dashboard** &raquo; **MedicalPress** &raquo; **Theme Options** &raquo; **Home** and configure the related settings as pointed in screen shot below.
 
 ![](images/slider/1.png)
 

@@ -1,4 +1,4 @@
-Go to **Dashboard** &raquo; **Testimonials** &raquo; **Add New**
+Go to **Dashboard** &raquo; **MedicalPress** &raquo; **Testimonials** &raquo; **Add New**
 
 1. Provide the patient name
 ![patient name](images/contents/9.png)

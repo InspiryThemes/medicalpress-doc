@@ -1,4 +1,4 @@
-Go to **Dashboard** &raquo; **Gallery Items** &raquo; **Add New**
+Go to **Dashboard** &raquo; **MedicalPress** &raquo; **Gallery Items** &raquo; **Add New**
 
 1. Provide the gallery item name
 ![gallery item name](images/contents/18.png)

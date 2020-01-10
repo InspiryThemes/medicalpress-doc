@@ -3,7 +3,7 @@ body{
 }
 
 .md-typeset {
-    font-size: 1.5rem;
+    font-size: 0.8rem;
     line-height: 1.8;
 }
 
@@ -113,6 +113,6 @@ hr,
 }
 
 .md-typeset h2 {
-    font-size: 2.4rem;
+    font-size: 1.3rem;
     margin-top: 3rem;
 }

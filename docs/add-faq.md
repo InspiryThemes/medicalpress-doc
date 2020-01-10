@@ -1,4 +1,4 @@
-Go to **Dashboard &raquo; FAQs &raquo; Add New**
+Go to **Dashboard &raquo; &raquo; **MedicalPress** FAQs &raquo; Add New**
 
 1. Provide the question text in title field
 ![title](images/contents/12.png)
