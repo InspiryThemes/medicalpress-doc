@@ -13,20 +13,6 @@ To enable boxed layout of MedicalPress Theme please navigate to **Dashboard** &r
 
 Look for the **Boxed Layout** option in this section. Enable it and **Save Changes**.
 
-## Google reCAPTCHA
-
-To configure Google reCAPTCHA you need to [Visit Google reCAPTCHA Site](https://www.google.com/recaptcha/intro/index.html) and get public and private keys for your website.
-After that use those keys to fill the related fields in **Dashboard &raquo; Theme Options &raquo; Contact** as displayed below.
-![](images/features/3.png)
-
-Now your reCAPTCHA keys are configured and you just need to enable reCAPTCHA on the required forms.
-
-To enable it on **Contact Form**, look for **reCAPTCHA in Contact Form** option and enable it.
-![](images/features/4.png)
-
-To enable it on **Appointment Forms**, Got to **Dashboard &raquo; Theme Options &raquo; Home** and look for **reCAPTCHA in Appointment Form***.
-![](images/features/5.png)
-
 ## Two Columns Menu
 
 To display two columns dropdown menu ( sub-menu ), Simply add **two-col-menu** class to parent menu item. As displayed in screen shot below.

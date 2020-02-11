@@ -17,6 +17,8 @@
 5. By default most of the APIs are enabled but you have to enable all other APIs too in order to avoid any problems in the future.
 ![All Apis](images/google-maps/all-apis.png)
 
+6. You need to enter this key in related place in **Theme Options > General > Google Map API Key** as seen in the following screenshot.
+![API Key Options](images/google-maps/theme-options-api.png)
 ## How to verify domain with Google
 
 Visit this link to [verify domain with Google](https://support.google.com/webmasters/answer/35179)
